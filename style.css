@@ -1,0 +1,51 @@
+
+nav{
+	align-self: center;
+}
+h1{
+	align-self: center;
+	font-size: 1.5em;
+	line-height: .5em;
+	color: #3e474f;
+	padding: 1em 1em 1em 0;
+}
+
+button{
+	padding: 0.65em 0.8em;
+	margin:0.8em -0.2em 0.8em -0.2em;
+	border:0;
+	background:#3e474f;
+	}
+
+button a{
+	color: #edeff0;
+	text-decoration: none;
+	font-size: 2em;
+	margin:0 0 10px 0;
+}
+
+button a:hover {
+	color: white;	
+}
+
+button a:active{
+	color:#5fcf80;	
+}
+
+#answer{
+	background: #edeff0;
+	margin:0.8em 0 0.8em 0;
+	border-radius: 0.2em;	
+	font-size:2em;
+}
+
+#answer a{
+	color:#3e474f;
+	
+}
+#answer a:hover{
+	background:#c4c4c4;
+	text-decoration: none;
+	padding:0;
+	margin:0;
+}
