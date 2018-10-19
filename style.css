@@ -6,7 +6,7 @@ h1{
 	align-self: center;
 	font-size: 1.5em;
 	line-height: .5em;
-	color: #3e474f;
+	color: #0B0C10;
 	padding: 1em 1em 1em 0;
 }
 
@@ -14,11 +14,11 @@ button{
 	padding: 0.65em 0.8em;
 	margin:0.8em -0.2em 0.8em -0.2em;
 	border:0;
-	background:#3e474f;
+	background:#1F2833;
 	}
 
 button a{
-	color: #edeff0;
+	color: #C5C6C7;
 	text-decoration: none;
 	font-size: 2em;
 	margin:0 0 10px 0;
@@ -29,22 +29,22 @@ button a:hover {
 }
 
 button a:active{
-	color:#5fcf80;	
+	color:#45A29E;	
 }
 
 #answer{
-	background: #edeff0;
+	background: #66FCF1;
 	margin:0.8em 0 0.8em 0;
 	border-radius: 0.2em;	
 	font-size:2em;
 }
 
 #answer a{
-	color:#3e474f;
+	color:#1F2833;
 	
 }
 #answer a:hover{
-	background:#c4c4c4;
+	background:#45A29E;
 	text-decoration: none;
 	padding:0;
 	margin:0;
