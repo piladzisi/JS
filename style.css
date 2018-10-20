@@ -3,9 +3,10 @@
 	margin:0;
 	padding:0;
 }
-body{
-	background: #1F2833;
+html{
+	background:#0B0C10;
 }
+
 nav{
 	text-align: center;
 }
@@ -16,11 +17,10 @@ h1{
 	padding: 1em 1em 1em 0;
 }
 
-button{
-	
+button{	
 	padding: 0.65em 0.8em;
-	margin:0.8em -0.2em 0.8em -0.2em;
-	background:#0B0C10;
+	margin:0.8em -0.2em;
+	background: #1F2833;
 	border:0;
 
 }
@@ -32,7 +32,7 @@ button a{
 }
 
 button a:hover {
-	color: white;	
+	color: white;
 }
 
 button a:active{
@@ -42,15 +42,15 @@ button a:active{
 div{
 	text-align: center;
 }
-#answer{
-	background:#45A29E;
-	margin:1em 0 1em 0;
-	border: #66FCF1 4em;
-	border-radius: 0.1em;
+.answer{
+	background:#0B0C10;
+	margin:1em 0;
+	border: 0.12em #66FCF1 solid;
+	border-radius: 0.12em;
 	font-size:1.5em;
 }
 
-#answer:hover {
+.answer:hover {
 	background:#45A29E;
 	text-decoration: none;
 }
